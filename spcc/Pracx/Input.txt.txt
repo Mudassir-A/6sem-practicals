@@ -1,0 +1,3 @@
+int count = 42;
+// This is a comment
+sum = count + 5;
