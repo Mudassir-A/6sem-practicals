@@ -1,0 +1,5 @@
+START 100
+LOOP  MOV A
+      ADD B
+      JMP LOOP
+      END
